@@ -1,3 +1,4 @@
+"use strict";
 const userNameInput = prompt('Your Name');
 const userAgeInput = prompt('Enter your Age');
 const userAnimals = confirm('Do you have animals');
